@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://condimentface.netlify.app/sitemap.xml
